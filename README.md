@@ -2,6 +2,8 @@ Python program for navigating the .json file.
 
 # Usage
 
+The program works in the console. Every time user is asked to enter certain data in order to navigate file. Below is an example:
+
 ```python
 There are 20 dictionaries in this file
 Choose one: 2
